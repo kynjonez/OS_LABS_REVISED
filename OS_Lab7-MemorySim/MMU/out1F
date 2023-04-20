@@ -1,0 +1,127 @@
+PARTITION_SIZE = 100000
+************************
+ALLOCATE: 50 FROM PID: 2
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+ALLOCATE: 1000 FROM PID: 3
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+ALLOCATE: 10000 FROM PID: 5
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+ALLOCATE: 8900 FROM PID: 4
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+ALLOCATE: 20000 FROM PID: 6
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+COALESCE/COMPACT
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+DEALLOCATE MEM: PID 5
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+ALLOCATE: 500000 FROM PID: 7
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+ALLOCATE: 1234 FROM PID: 8
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+DEALLOCATE MEM: PID 3
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+ALLOCATE: 4000 FROM PID: 9
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+DEALLOCATE MEM: PID 2
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+DEALLOCATE MEM: PID 8
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
+************************
+COALESCE/COMPACT
+************************
+Free Memory:
+Block 0:	 START: 0	 END: 99999
+
+Allocated Memory:
+
+
